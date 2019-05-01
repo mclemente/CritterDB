@@ -341,7 +341,7 @@
   },
   {
     "name": "Hellish Rejuvenation (Lemure)",
-    "description": "A {{name}} that dies in the Nine Hells comes back to life with all its hit points in 1d10 days unless it is killed by a good-aligned creature with a bless spell cast on that creature or its remains are sprinkled with holy water."
+    "description": "A {{name}} that dies in the Nine Hells comes back to life with all its hit points in 1d10 days unless it is killed by a good-aligned creature with a <i>bless</i> spell cast on that creature or its remains are sprinkled with holy water."
   },
   {
     "name": "Hellish Weapons (Erinyes)",
@@ -537,7 +537,7 @@
   },
   {
     "name": "Petrifying Gaze (Basilisk)",
-    "description": "If a creature starts its turn within 30 feet of {{name}} and the two of them can see each other, {{name}} can force the creature to make a DC 12 Constitution saving throw if {{name}} isn't incapacitated. On a failed save, the creature magically begins to turn to stone and is restrained. It must repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure, the creature is petrified until freed by the greater restoration spell or other magic. \n A creature that isn't surprised can avert its eyes to avoid the saving throw at the start of its turn. If it does so, it can't see {{name}} until the start of its next turn, when it can avert its eyes again. If it looks at {{name}} in the meantime, it must immediately make the save. \n If {{name}} sees its reflection within 30 feet of it in bright light, it mistakes itself for a rival and targets itself with its gaze."
+    "description": "If a creature starts its turn within 30 feet of {{name}} and the two of them can see each other, {{name}} can force the creature to make a DC 12 Constitution saving throw if {{name}} isn't incapacitated. On a failed save, the creature magically begins to turn to stone and is restrained. It must repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure, the creature is petrified until freed by the <i>greater restoration</i> spell or other magic. \n A creature that isn't surprised can avert its eyes to avoid the saving throw at the start of its turn. If it does so, it can't see {{name}} until the start of its next turn, when it can avert its eyes again. If it looks at {{name}} in the meantime, it must immediately make the save. \n If {{name}} sees its reflection within 30 feet of it in bright light, it mistakes itself for a rival and targets itself with its gaze."
   },
   {
     "name": "Pounce (Lion)",
@@ -645,7 +645,7 @@
   },
   {
     "name": "Sense Magic (Chuul)",
-    "description": "{{name}} senses magic within 120 feet of it at will. This trait otherwise works like the detect magic spell but isn't itself magical"
+    "description": "{{name}} senses magic within 120 feet of it at will. This trait otherwise works like the <i>detect magic</i> spell but isn't itself magical."
   },
   {
     "name": "Shielded Mind",
